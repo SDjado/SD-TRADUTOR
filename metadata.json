@@ -1,0 +1,7 @@
+{
+  "name": "SD Tradutor",
+  "description": "Assistente essencial para imigrantes. Digitalize documentos e entenda tudo em seu idioma nativo através de resumos inteligentes e áudio de alta qualidade.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
